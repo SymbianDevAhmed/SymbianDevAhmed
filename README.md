@@ -165,15 +165,15 @@ Java Fundamentals • Problem Solving • Console Applications
 </div>
 
 ---
-
+<!--
 <div align="center">
 
 ## 📊 GitHub Statistics
-<!--
+
 <img src="https://github-readme-stats.vercel.app/api?username=SymbianDevAhmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SymbianDevAhmed&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages">
--->
+
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SymbianDevAhmed&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak">
@@ -181,7 +181,7 @@ Java Fundamentals • Problem Solving • Console Applications
 </div>
 
 ---
-
+-->
 <div align="center">
 
 ## 🧠 What I'm Working Toward
