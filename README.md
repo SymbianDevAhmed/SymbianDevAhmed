@@ -165,7 +165,7 @@ Java Fundamentals • Problem Solving • Console Applications
 </div>
 
 ---
-
+<!--
 <div align="center">
 
 ## 📊 GitHub Statistics
@@ -181,7 +181,7 @@ Java Fundamentals • Problem Solving • Console Applications
 </div>
 
 ---
-
+-->
 <div align="center">
 
 ## 🧠 What I'm Working Toward
