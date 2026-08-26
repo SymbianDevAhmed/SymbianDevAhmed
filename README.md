@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ahmed Gaber
+# 👋 Ahmed Gaber
 
 ### 🧪 Aspiring Software Tester | QA | Java
 
@@ -11,6 +11,36 @@
 
 <br><br>
 
+<div align="center">
+
+<a href="https://github.com/SymbianDevAhmed">
+<img src="https://img.shields.io/badge/GitHub-SymbianDevAhmed-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://www.linkedin.com/in/symbiandevahmed/">
+<img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Gaber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://twitter.com/SymbianDevAhmed">
+<img src="https://img.shields.io/badge/X-SymbianDevAhmed-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>
+
+<br>
+
+<a href="https://t.me/SymbianDevAhmad">
+<img src="https://img.shields.io/badge/Telegram-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+</a>
+
+<a href="mailto:ahmed.g.abdeldayem@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+          
 ![Profile Views](https://komarev.com/ghpvc/?username=SymbianDevAhmed&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
@@ -90,7 +120,7 @@ Test Automation        ███░░░░░░░░░  Next Goal
 </div>
 
 ---
-
+<!--
 <div align="center">
 
 ## 🧪 Testing Mindset
@@ -123,6 +153,7 @@ Test Automation        ███░░░░░░░░░  Next Goal
 </details>
 
 </div>
+-->
 
 ## 🚀 Projects
 
