@@ -103,6 +103,27 @@ Test Automation        ███░░░░░░░░░  Next Goal
 
 ---
 
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SymbianDevAhmed&theme=nord_dark" width="32.5%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SymbianDevAhmed&theme=nord_dark" width="32.5%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SymbianDevAhmed&theme=nord_dark" width="32.5%">
+
+<br>
+
+<details>
+<summary>More stats</summary>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SymbianDevAhmed&theme=nord_dark" width="90%">
+
+</details>
+
+</div>
+
 ## 🚀 Projects
 
 > 🚧 I'm currently building my first practical projects.
