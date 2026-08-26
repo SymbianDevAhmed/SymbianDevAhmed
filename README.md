@@ -112,18 +112,16 @@ I’m building my skills through practical projects and working toward Test Auto
 
 <h2 align="center">📚 Currently Learning</h2>
 
-<div align="center">
-
-| 🔍 Skill | 📊 Progress | 🎯 Status |
-|:---|:---:|:---:|
-| ☕ **Java** | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ **60%** | 🟢 Learning |
-| 🐍 **Python** | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning |
-| 🧪 **Software Testing** | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning |
-| 🔎 **Manual Testing** | 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **25%** | 🟢 Learning |
-| 📝 **Test Case Design** | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning |
-| 🐞 **Bug Reporting** | 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning |
-| 🤖 **Test Automation** | 🟫🟫⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning |
-| 💻 **Git & GitHub** | ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ **30%** | 🟢 Learning |
+| 🔍 Skill | 📊 Progress | 🎯 Status | 🧭 Focus | 📈 Goal |
+|:---|:---:|:---:|:---|:---|
+| ☕ **Java** | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜&nbsp;**60%** | 🟢&nbsp;Learning | Core&nbsp;Java&nbsp;&amp;&nbsp;OOP | Strong&nbsp;Fundamentals |
+| 🐍 **Python** | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜&nbsp;**20%** | 🟢&nbsp;Learning | Python&nbsp;Fundamentals | Problem&nbsp;Solving |
+| 🧪 **Software&nbsp;Testing** | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜&nbsp;**20%** | 🟢&nbsp;Learning | QA&nbsp;&amp;&nbsp;Testing&nbsp;Fundamentals | Strong&nbsp;QA&nbsp;Foundation |
+| 🔎 **Manual&nbsp;Testing** | 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜&nbsp;**25%** | 🟢&nbsp;Learning | Test&nbsp;Execution&nbsp;&amp;&nbsp;Analysis | Improve&nbsp;Testing&nbsp;Skills |
+| 📝 **Test&nbsp;Case&nbsp;Design** | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜&nbsp;**20%** | 🟢&nbsp;Learning | Test&nbsp;Scenarios&nbsp;&amp;&nbsp;Cases | Better&nbsp;Test&nbsp;Cases |
+| 🐞 **Bug&nbsp;Reporting** | 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜&nbsp;**20%** | 🟢&nbsp;Learning | Defect&nbsp;Tracking&nbsp;&amp;&nbsp;Reporting | Clear&nbsp;Bug&nbsp;Reports |
+| 🤖 **Test&nbsp;Automation** | 🟫🟫⬜⬜⬜⬜⬜⬜⬜⬜&nbsp;**20%** | 🟢&nbsp;Learning | UI&nbsp;Test&nbsp;Automation | Move&nbsp;Toward&nbsp;Automation |
+| 💻 **Git&nbsp;&amp;&nbsp;GitHub** | ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜&nbsp;**30%** | 🟢&nbsp;Learning | Version&nbsp;Control&nbsp;&amp;&nbsp;Workflow | Improve&nbsp;Git&nbsp;Workflow |
 
 </div>
 
