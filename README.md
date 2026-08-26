@@ -92,36 +92,21 @@ Test Automation        ███░░░░░░░░░  Next Goal
 ---
 
 <div align="center">
-
 ## 🧪 Testing Mindset
-
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/message.gif?raw=true" width="25" alt="Testing">
-
 **Find it → Understand it → Report it → Improve it**
-
 </div>
-
 ---
-
 <div align="center">
-
-<img src="./profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" alt="GitHub Stats">
-
-<img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" alt="Top Languages by Repo">
-
-<img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" alt="Top Languages by Commit">
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SymbianDevAhmed&theme=nord\_dark" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SymbianDevAhmed&theme=nord\_dark" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SymbianDevAhmed&theme=nord\_dark" width="32.5%">
 <br>
-
 <details>
 <summary>More stats</summary>
-
 <br>
-
-<img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" width="90%" alt="Profile Details">
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SymbianDevAhmed&theme=nord\_dark" width="90%">
 </details>
-
 </div>
 
 ## 🚀 Projects
