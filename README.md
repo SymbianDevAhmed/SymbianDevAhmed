@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 👋 Hi, I'm Ahmed Gaber
@@ -194,4 +193,3 @@ Java Fundamentals • Problem Solving • Console Applications
 **Every bug is a lesson. Every project is progress.**
 
 </div>
-```
