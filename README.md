@@ -114,11 +114,11 @@ I’m building my skills through practical projects and working toward Test Auto
 
 | 🔍 Skill | 📊 Progress | 🛠️ Tools | 🧭 Focus | 📈 Goal |
 |:---|:---:|:---|:---|:---|
-| **Java** | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ **60%** | IntelliJ | Core Java & OOP | Master Core Fundamentals |
+| **Java** | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ **60%** | IntelliJ IDEA | Core Java & OOP | Master Core Fundamentals |
 | **Python** | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | VS Code | Python Fundamentals | Improve Problem Solving |
 | **Software Testing** | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Jira | QA Fundamentals | Build QA Foundation |
 | **Manual Testing** | 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **25%** | Jira | Test Execution | Strengthen Testing Skills |
-| **Test Case Design** | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Excel | Test Scenarios | Write Better Test Cases |
+| **Test Case Design** | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | TestRail | Test Scenarios | Write Better Test Cases |
 | **Bug Reporting** | 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Jira | Defect Tracking | Write Clear Bug Reports |
 | **Test Automation** | 🟫🟫⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Selenium | UI Automation | Move Toward Automation |
 | **Git & GitHub** | ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ **30%** | Git & GitHub | Version Control | Improve Git Workflow |
