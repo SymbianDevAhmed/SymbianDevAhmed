@@ -110,19 +110,20 @@ I’m building my skills through practical projects and working toward Test Auto
 
 ---
 
+<h2 align="center">📚 Currently Learning</h2>
+
 <div align="center">
 
-## 📚 Currently Learning
-
-```text
-Software Testing       █████████░░░  Learning
-Manual Testing         █████████░░░  Learning
-Test Case Design       ████████░░░░  Learning
-Bug Reporting          ████████░░░░  Learning
-Java                   ███████░░░░░  Learning
-Git & GitHub           ███████░░░░░  Learning
-Test Automation        ███░░░░░░░░░  Next Goal
-```
+| 🔍 Skill | 📊 Progress | 🎯 Status |
+|:---|:---:|:---:|
+| ☕ **Java** | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ **60%** | 🟢 Learning |
+| 🐍 **Python** | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning |
+| 🧪 **Software Testing** | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning |
+| 🔎 **Manual Testing** | 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **25%** | 🟢 Learning |
+| 📝 **Test Case Design** | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning |
+| 🐞 **Bug Reporting** | 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning |
+| 🤖 **Test Automation** | 🟫🟫⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning |
+| 💻 **Git & GitHub** | ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ **30%** | 🟢 Learning |
 
 </div>
 
