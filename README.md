@@ -114,14 +114,14 @@ I’m building my skills through practical projects and working toward Test Auto
 
 | 🔍 Skill | 📊 Progress | 🛠️ Tools | 🧭 Focus | 📈 Goal |
 |:---|:---:|:---|:---|:---|
-| ☕ **Java** | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ **60%** | IntelliJ | Core Java & OOP | Core Fundamentals |
-| 🐍 **Python** | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | VS Code | Python Basics | Problem Solving |
-| 🧪 **Software Testing** | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Jira | QA Fundamentals | QA Foundation |
-| 🔎 **Manual Testing** | 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **25%** | Jira | Test Execution | Testing Skills |
-| 📝 **Test Case Design** | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Excel | Test Scenarios | Better Test Cases |
-| 🐞 **Bug Reporting** | 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Jira | Defect Tracking | Clear Bug Reports |
-| 🤖 **Test Automation** | 🟫🟫⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Selenium | UI Automation | Automation Skills |
-| 💻 **Git & GitHub** | ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ **30%** | Git | Version Control | Git Workflow |
+| **Java** | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ **60%** | IntelliJ | Core Java & OOP | Master Core Fundamentals |
+| **Python** | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | VS Code | Python Fundamentals | Improve Problem Solving |
+| **Software Testing** | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Jira | QA Fundamentals | Build QA Foundation |
+| **Manual Testing** | 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **25%** | Jira | Test Execution | Strengthen Testing Skills |
+| **Test Case Design** | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Excel | Test Scenarios | Write Better Test Cases |
+| **Bug Reporting** | 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Jira | Defect Tracking | Write Clear Bug Reports |
+| **Test Automation** | 🟫🟫⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Selenium | UI Automation | Move Toward Automation |
+| **Git & GitHub** | ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ **30%** | Git | Version Control | Improve Git Workflow |
 
 </div>
 
