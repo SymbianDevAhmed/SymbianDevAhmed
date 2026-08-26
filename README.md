@@ -4,7 +4,6 @@
 
 ### 🧪 Aspiring Software Tester | QA | Java
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif?raw=true" width="65%" alt="Hello Coders">
 
 <br>
 
