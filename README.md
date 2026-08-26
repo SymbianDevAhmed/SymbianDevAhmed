@@ -121,7 +121,7 @@ I’m building my skills through practical projects and working toward Test Auto
 | **Test Case Design** | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Excel | Test Scenarios | Write Better Test Cases |
 | **Bug Reporting** | 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Jira | Defect Tracking | Write Clear Bug Reports |
 | **Test Automation** | 🟫🟫⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Selenium | UI Automation | Move Toward Automation |
-| **Git & GitHub** | ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ **30%** | Git | Version Control | Improve Git Workflow |
+| **Git & GitHub** | ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ **30%** | Git & GitHub | Version Control | Improve Git Workflow |
 
 </div>
 
