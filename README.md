@@ -150,23 +150,22 @@ Java Fundamentals • Problem Solving • Console Applications
 
 <div align="center">
 
-## 🎯 My Learning Journey
+## 🧠 What I'm Working Toward
 
-```text
-          Learn
-            ↓
-         Practice
-            ↓
-       Build Projects
-            ↓
-          Test
-            ↓
-         Debug
-            ↓
-         Improve
-            ↓
-   Become a Software Tester
-```
+<img align="right"
+     src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+     width="35%"
+     alt="Working">
+
+<ul align="left">
+  <li>🧪 Building practical Software Testing projects
+  <li>🔍 Becoming stronger in Manual Testing
+  <li>📝 Writing better Test Cases
+  <li>🐞 Improving Bug Reporting skills
+  <li>☕ Strengthening Java fundamentals
+  <li>🤖 Moving toward Test Automation
+  <li>📂 Building a professional QA portfolio
+</ul>
 
 </div>
 
@@ -174,17 +173,17 @@ Java Fundamentals • Problem Solving • Console Applications
 
 <div align="center">
 
-## 🧠 What I'm Working Toward
+### Code Cycle
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="100">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="100">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="100">
 
 </div>
-
-- 🧪 Building practical Software Testing projects
-- 🔍 Becoming stronger in Manual Testing
-- 📝 Writing better Test Cases
-- 🐞 Improving Bug Reporting skills
-- ☕ Strengthening Java fundamentals
-- 🤖 Moving toward Test Automation
-- 📂 Building a professional QA portfolio
 
 ---
 
