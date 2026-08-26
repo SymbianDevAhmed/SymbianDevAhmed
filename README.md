@@ -208,7 +208,7 @@ Java Fundamentals • Problem Solving • Console Applications
 
 &nbsp;
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/symbiandevahmed/)">
 <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Gaber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
