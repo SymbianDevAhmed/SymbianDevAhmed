@@ -120,7 +120,7 @@ I’m building my skills through practical projects and working toward Test Auto
 | 🔎 **Manual Testing** | 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **25%** | Jira | Test Execution | Strengthen Testing Skills |
 | 📝 **Test Case Design** | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Excel | Test Scenarios | Write Better Test Cases |
 | 🐞 **Bug Reporting** | 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Jira | Defect Tracking | Write Clear Bug Reports |
-| 🤖 **Test Automation** | 🟫🟫⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Selenium | UI Automation | Move Toward Automation |
+| 🤖 **Test Automation** | 🟫🟫⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | Selenium | UI Automation | Move Toward Automation Testing |
 | 💻 **Git & GitHub** | ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ **30%** | Git | Version Control | Improve Git Workflow |
 
 </div>
