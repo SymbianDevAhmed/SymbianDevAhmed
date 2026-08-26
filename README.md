@@ -128,6 +128,8 @@ Test Automation        ███░░░░░░░░░  Next Goal
 
 ---
 
+<div align="center">
+
 ## 🚀 Projects
 
 > 🚧 I'm currently building my first practical projects.
