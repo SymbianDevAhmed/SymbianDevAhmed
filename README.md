@@ -105,23 +105,20 @@ Test Automation        ███░░░░░░░░░  Next Goal
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SymbianDevAhmed&theme=nord\_dark" width="32.5%">
+<img src="./profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%" alt="GitHub Stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SymbianDevAhmed&theme=nord\_dark" 
-width="32.5%">
+<img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%" alt="Top Languages by Repo">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SymbianDevAhmed&theme=nord\
-\_dark" width="32.5%">
+<img src="./profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%" alt="Top Languages by Commit">
 
 <br>
 
 <details>
-
 <summary>More stats</summary>
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SymbianDevAhmed&theme=nord\_dark" width="90%">
+<img src="./profile-summary-card-output/nord_dark/0-profile-details.svg" width="90%" alt="Profile Details">
 
 </details>
 
