@@ -114,14 +114,14 @@ I’m building my skills through practical projects and working toward Test Auto
 
 | 🔍 Skill | 📊 Progress | 🎯 Status | 🧭 Focus | 📈 Goal |
 |:---|:---:|:---:|:---|:---|
-| ☕ **Java** | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ **60%** | 🟢 Learning | Core Java & OOP | Master Core Fundamentals |
-| 🐍 **Python** | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning | Python Fundamentals | Improve Problem Solving |
-| 🧪 **Software Testing** | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning | QA Fundamentals | Build QA Foundation |
-| 🔎 **Manual Testing** | 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **25%** | 🟢 Learning | Test Execution | Strengthen Testing Skills |
-| 📝 **Test Case Design** | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning | Test Scenarios | Write Better Test Cases |
-| 🐞 **Bug Reporting** | 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning | Defect Tracking | Write Clear Bug Reports |
-| 🤖 **Test Automation** | 🟫🟫⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning | UI Automation | Move Toward Automation |
-| 💻 **Git & GitHub** | ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ **30%** | 🟢 Learning | Version Control | Improve Git Workflow |
+| **Java** | 🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜ **60%** | 🟢 Learning | Core Java & OOP | Master Core Fundamentals |
+| **Python** | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning | Python Fundamentals | Improve Problem Solving |
+| **Software Testing** | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning | QA Fundamentals | Build QA Foundation |
+| **Manual Testing** | 🟪🟪⬜⬜⬜⬜⬜⬜⬜⬜ **25%** | 🟢 Learning | Test Execution | Strengthen Testing Skills |
+| **Test Case Design** | 🟥🟥⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning | Test Scenarios | Write Better Test Cases |
+| **Bug Reporting** | 🟨🟨⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning | Defect Tracking | Write Clear Bug Reports |
+| **Test Automation** | 🟫🟫⬜⬜⬜⬜⬜⬜⬜⬜ **20%** | 🟢 Learning | UI Automation | Move Toward Automation |
+| **Git & GitHub** | ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜ **30%** | 🟢 Learning | Version Control | Improve Git Workflow |
 
 </div>
 
