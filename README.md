@@ -13,6 +13,12 @@
 
 <div align="center">
 
+I’m currently learning Software Testing and Quality Assurance,
+with a focus on Manual Testing, Java, and Test Case Design.<br>
+I’m building my skills through practical projects and working toward Test Automation.
+
+<br>
+
 <a href="https://github.com/SymbianDevAhmed">
 <img src="https://img.shields.io/badge/GitHub-SymbianDevAhmed-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
@@ -38,28 +44,29 @@
 </div>
 
 <br>
-
-<div align="center">
           
 ![Profile Views](https://komarev.com/ghpvc/?username=SymbianDevAhmed&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
 ---
+<div align="center">
 
 ## 🧪 About Me
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" alt="Penguin">
 
-- 🎯 Aspiring **Software Tester**
-- 📚 Currently learning **Software Testing & Quality Assurance**
-- ☕ Learning and practicing **Java**
-- 🔍 Interested in **Manual Testing & Test Case Design**
-- 🐞 Learning **Bug Reporting & Defect Documentation**
-- 💻 Practicing with **Git & GitHub**
-- 🚀 Working toward **Test Automation**
+<ul align="left">
+  <li>🎯 Aspiring <strong>Software Tester</strong></li>
+  <li>📚 Currently learning <strong>Software Testing & Quality Assurance</strong></li>
+  <li>☕ Learning and practicing <strong>Java</strong></li>
+  <li>🔍 Interested in <strong>Manual Testing & Test Case Design</strong></li>
+  <li>🐞 Learning <strong>Bug Reporting & Defect Documentation</strong></li>
+  <li>💻 Practicing with <strong>Git & GitHub</strong></li>
+  <li>🚀 Working toward <strong>Test Automation</strong></li>
+</ul>
 
-<br clear="right"/>
+</div>
 
 ---
 
@@ -120,40 +127,6 @@ Test Automation        ███░░░░░░░░░  Next Goal
 </div>
 
 ---
-<!--
-<div align="center">
-
-## 🧪 Testing Mindset
-
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/message.gif?raw=true" width="25" alt="Testing">
-**Find it → Understand it → Report it → Improve it**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SymbianDevAhmed&theme=nord\_dark" width="32.5%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SymbianDevAhmed&theme=nord\_dark" width="32.5%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SymbianDevAhmed&theme=nord\_dark" width="32.5%">
-
-<br>
-
-<details>
-
-<summary>More stats</summary>
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SymbianDevAhmed&theme=nord\_dark" width="90%">
-
-</details>
-
-</div>
--->
 
 ## 🚀 Projects
 
@@ -196,23 +169,7 @@ Java Fundamentals • Problem Solving • Console Applications
 </div>
 
 ---
-<!--
-<div align="center">
 
-## 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=SymbianDevAhmed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SymbianDevAhmed&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages">
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SymbianDevAhmed&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak">
-
-</div>
-
----
--->
 <div align="center">
 
 ## 🧠 What I'm Working Toward
@@ -226,24 +183,6 @@ Java Fundamentals • Problem Solving • Console Applications
 - ☕ Strengthening Java fundamentals
 - 🤖 Moving toward Test Automation
 - 📂 Building a professional QA portfolio
-
----
-
-<div align="center">
-
-## 📫 Connect With Me
-
-<a href="https://github.com/SymbianDevAhmed">
-<img src="https://img.shields.io/badge/GitHub-SymbianDevAhmed-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/in/symbiandevahmed/">
-<img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Gaber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-</div>
 
 ---
 
