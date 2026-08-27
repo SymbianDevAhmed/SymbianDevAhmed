@@ -172,13 +172,13 @@ I’m building my skills through practical projects and working toward Test Auto
 </p>
 
 ---
-## 🧰 Tech Toolbox
+<h2 align="center">🧰 Tech Toolbox</h2>
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,vscode,idea,selenium,postman,figma,github,git" />
-</p>
----
+</div>
 
+---
 <h2 align="center">📚 Currently Learning</h2>
 
 | 🔍 Skill | 📊 Progress | 🛠️ Tools | 🧭 Focus | 📈 Goal |
