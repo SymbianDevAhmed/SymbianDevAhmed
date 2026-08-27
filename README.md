@@ -179,6 +179,26 @@ Java Fundamentals • Problem Solving • Console Applications
 
 <div align="center">
 
+<a href="https://github.com/SymbianDevAhmed">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SymbianDevAhmed&theme=nord_dark" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SymbianDevAhmed&theme=nord_dark" width="32.5%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SymbianDevAhmed&theme=nord_dark" width="32.5%">
+
+</a>
+
+</div>
+
+<details>
+  <summary>More stats</summary>
+
+<img align="center"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SymbianDevAhmed&theme=nord_dark">
+
+</details>
+
+---
+<div align="center">
+
 ### Code Cycle
 
 <br>
